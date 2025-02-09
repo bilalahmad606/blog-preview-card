@@ -58,6 +58,11 @@ img {
     margin-bottom: 1rem;
 }
 
+.btn:hover {
+    background-color: rgb(204, 192, 192);
+    cursor: pointer;
+}
+
 h2 {
     margin-top: 1rem;
     margin-bottom: 1rem;
